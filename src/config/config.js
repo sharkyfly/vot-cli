@@ -1,5 +1,5 @@
 const debug = false;
-const workerHost = "api.browser.yandex.ru";
+const workerHost = "vot-new.toil-dump.workers.dev";
 
 const yandexHmacKey = "xtGCyGdTY2Jy6OMEKdTuXev3Twhkamgm";
 const yandexUserAgent =
